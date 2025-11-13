@@ -1,6 +1,5 @@
 # 💫 About Myself:
 🌐 Web Developer<br/>
-📱 Mobile Developer<br/>
 🎨 UI/UX Designer<br/>
 
 ## 🌐 Socials:
