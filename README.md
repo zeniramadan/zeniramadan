@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:a033ff&height=250&section=header&text=Hi,%20I'm%20Zeni%20Ramadan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=55&descAlign=50&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:a033ff&height=250&section=header&text=Hi,%20I'm%20Zeni%20Ramadan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20journey!&descAlignY=55&descAlign=50&descColor=ffffff" width="100%" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Machine+Learning+Enthusiast" alt="Typing SVG"/>
   </a>
+
+  <br>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,tailwind,nodejs,express,php,laravel,mysql,postgres,figma,git,vscode,docker"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,tailwind,nodejs,express,php,laravel,mysql,postgres,figma,git,vscode,docker&perline=8"/>
   </a>
   
   <br></br>
