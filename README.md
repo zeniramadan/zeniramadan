@@ -1,29 +1,83 @@
-# 💫 About Myself:
-🌐 Web Developer<br/>
-🎨 UI/UX Designer<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi%20there,%20I'm%20Zeni!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
+  
+  <h3>Front-End Developer | UI/UX Designer | Informatics Student</h3>
+  
+  <p>
+    Building accessible web applications with a touch of Machine Learning.<br>
+    Based in Indonesia 🇮🇩
+  </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zeni.zenot.16) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeniramadan_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeniramadan) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zeniramadan_) 
+  <br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeniramadan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zeniramadan&theme=github_dark&hide_border=false)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeniramadan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://linkedin.com/in/zeniramadan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/zeniramadan_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@zeniramadan_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+</div>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<hr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeniramadan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 👨‍💻 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=zeniramadan&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🎓 **Education:** Informatics Student at STT Cipasung.
+- 💼 **Experience:** Alumnus of Dicoding Academy (Studi Independen - Kampus Merdeka).
+- 🔭 **Current Focus:** Developing **"E-Syarat"**, an inclusive platform for learning Sign Language using TensorFlow.js.
+- 🌱 **Learning:** React.js, Machine Learning Deployment, and Advanced UI Design.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
+
+</div>
+
+<br>
+
+### 📈 GitHub Analytics
+
+Saya mengganti grafik yang sering error dengan **Streak Stats** dan **Trophy** yang lebih stabil dan unik.
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zeniramadan&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="zeniramadan" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeniramadan&theme=radical&hide_border=true" alt="Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniramadan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+  <small>Thanks for visiting! Let's connect.</small>
+</div>
