@@ -1,25 +1,19 @@
-# 👋 Hi, I'm Zeni Ramadan
+<h1 align="center">👋 Hi, I'm Zeni Ramadan </h1>
 
-A passionate **Front-End & Back-End Developer** and **UI/UX Designer** who enjoys building clean, functional, and user-friendly digital products.  
-I focus on turning ideas into real applications with thoughtful design and solid technical foundations.
+<p align="center">A passionate <b>Front-End & Back-End Developer</b> and <b>UI/UX Designer</b> who enjoys building clean, functional, and user-friendly digital products.<br>  
+I focus on turning ideas into real applications with thoughtful design and solid technical foundations.</p>
 
----
-
-## 🌟 About Me
+## 🌟 About
 - 🌐 Front-End & Back-End Developer  
 - 🎨 UI/UX Designer  
 - 💡 Interested in web development, system design, and user-centered solutions  
 - 🚀 Continuously learning through real-world projects  
 
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/zeni.zenot.16)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/zeniramadan_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeniramadan)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@zeniramadan_)
-
----
 
 ## 💻 Tech Stack
 
@@ -52,17 +46,11 @@ I focus on turning ideas into real applications with thoughtful design and solid
 ---
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=zeniramadan&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniramadan&layout=compact&theme=radical&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeniramadan&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniramadan&layout=compact&theme=radical&hide_border=true" height="180em"/>
 </p>
 
 ---
 
-Thanks for visiting my profile!  
-Feel free to explore my repositories or connect with me 🚀
+<p align="center">Thanks for visiting my profile!<br>  
+Feel free to explore my repositories or connect with me 🚀</p>
