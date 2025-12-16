@@ -39,9 +39,8 @@ I focus on turning ideas into real applications with thoughtful design and solid
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeniramadan&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeniramadan&layout=compact&theme=radical&hide_border=true" height="180em"/>
-</p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=zeniramadan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeniramadan&layout=compact&theme=radical&hide_border=true"/></p>
 
 ---
 
