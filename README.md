@@ -18,7 +18,7 @@
   <hr>
   💻 Front-End & Back-End Developer<br>
   🎨 UI/UX Designer<br>
-  💡 Interested in web development, system design, and user-centered solutions<br>
+  💡 Interested in web development, system design, and Machine Learning<br>
   🚀 Continuously learning through real-world projects<br>
   <hr>
     
