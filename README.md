@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Zeni Ramadan </h1>
 
-<p align="center">A passionate <b>Front-End & Back-End Developer</b> and <b>UI/UX Designer</b> who enjoys building clean, functional, and user-friendly digital products.<br>  
+<p align="center">A passionate <b>Front-End & Back-End Developer</b> and <b>UI/UX Designer</b> who enjoys building clean, functional, and user-friendly digital products.  
 I focus on turning ideas into real applications with thoughtful design and solid technical foundations.</p>
 
 ## 🌟 About
