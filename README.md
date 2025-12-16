@@ -14,14 +14,13 @@
   <br></br>
   
   <p align="center">A passionate <b>Front-End & Back-End Developer</b> and <b>UI/UX Designer</b> who enjoys building clean, functional, and user-friendly digital products. I focus on turning ideas into real applications with thoughtful design and solid technical foundations.</p>
-  
-  <h3>🌟 About</h3>
-    <hr>
-    🌐 Front-End & Back-End Developer<br>
-    🎨 UI/UX Designer<br>
-    💡 Interested in web development, system design, and user-centered solutions<br>
-    🚀 Continuously learning through real-world projects<br>
-    <hr>
+
+  <hr>
+  💻 Front-End & Back-End Developer<br>
+  🎨 UI/UX Designer<br>
+  💡 Interested in web development, system design, and user-centered solutions<br>
+  🚀 Continuously learning through real-world projects<br>
+  <hr>
     
   <h3>🌐 Connect</h3>
   <a href="https://facebook.com/zeni.zenot.16" target="_blank">
